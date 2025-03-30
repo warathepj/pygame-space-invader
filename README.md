@@ -24,7 +24,7 @@ This is a simple implementation of the classic arcade game Space Invaders. The p
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/warathepj/pygame-space-invaders.git
+git clone https://github.com/warathepj/pygame-space-invader.git
 ```
 
 2. Install the required dependencies:
