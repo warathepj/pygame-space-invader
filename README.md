@@ -19,6 +19,25 @@ This is a simple implementation of the classic arcade game Space Invaders. The p
 - Python 3.x
 - Pygame 2.5.0 or higher
 
+## Setting Up Python Environment
+
+1. Install Python:
+
+   - Download Python 3.x from [python.org](https://www.python.org/downloads/)
+   - During installation, make sure to check "Add Python to PATH"
+
+2. Create a virtual environment (recommended):
+
+```bash
+# Windows
+python -m venv venv
+venv\Scripts\activate
+
+# macOS/Linux
+python3 -m venv venv
+source venv/bin/activate
+```
+
 ## Installation
 
 1. Clone this repository:
